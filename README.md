@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.laobi.icu/badge?page_id=GuilhermeFreitas09.GuilhermeFreitas09)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeFreitas09&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFreitas09&theme=tokyonight)
-
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=GuilhermeFreitas09&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFreitas09&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFreitas09&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFreitas09&hide=php&theme=tokyonight" />
+</a>
+</div>
